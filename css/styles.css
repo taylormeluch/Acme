@@ -1,0 +1,76 @@
+.wrapper {
+	padding: 0px 240px;
+}
+
+nav li {
+	list-style: none;
+	text-decoration: none;
+	font-family: "Arial";
+	font-weight: bold;
+	font-size: 16pt;
+	color: gray;
+	padding: 0px 20px;
+	line-height: 80px;
+	float:left;
+}
+
+nav li:last-child {
+	padding: 0;
+}
+
+.image {
+	float:left;
+}
+
+.nav {
+	float:right;
+}
+
+.image2 {
+	text-align: center;
+}
+
+.container2 {
+	width: 100%;
+}
+
+.copy {
+	width: 50%;
+	float: left;
+}
+
+.copy p {
+	padding-right: 50px;
+}
+
+.copy2 p {
+	padding-left: 50px;
+}
+
+.copy2 {
+	width: 50%;
+	float: left;
+}
+
+p {
+	font-family: "Arial"
+}
+
+.container2 p {
+	color: gray;
+	font-size: 9pt;
+}
+
+h3 {
+	font-family: "Arial";
+	size: 18pt;
+	font-weight: normal;
+	color: gray;
+}
+.copy2 h3 {
+	font-family: "Arial";
+	size: 18pt;
+	font-weight: normal;
+	color: gray;
+	padding-left: 50px;
+}
